@@ -6,5 +6,7 @@ elif name == "reddy":
     print("thats ok")
 elif name == "None":
     print("nothing happen")
+elif name == ("cat"):
+    print("pet animal")
 else:
     print("no name")
